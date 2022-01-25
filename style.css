@@ -1,0 +1,10 @@
+.login-form{
+    margin: 200px 400px;
+    border: 2px dotted black;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(245, 232, 214);
+}
+.body{
+    background: url("boss.jpg") no-repeat;
+}
